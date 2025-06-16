@@ -1,0 +1,20 @@
+[2025-05-31 10:00:00] INFO Application started
+[2025-05-31 10:01:00] WARNING Low disk space
+[2025-05-31 10:02:00] ERROR Failed to load config
+[2025-05-31 10:03:00] INFO User logged in
+[2025-05-31 10:04:00] ERROR Could not connect to database
+[2025-05-31 10:02:00] ERROR Failed to load config
+[2025-05-31 10:03:00] INFO User logged in
+[2025-05-31 10:04:00] ERROR Could not connect to database
+[2025-05-31 10:02:00] ERROR Failed to load config
+[2025-05-31 10:03:00] INFO User logged in
+[2025-05-31 10:04:00] ERROR Could not connect to database
+[2025-05-31 10:02:00] ERROR Failed to load config
+[2025-05-31 10:03:00] INFO User logged in
+[2025-05-31 10:04:00] ERROR Could not connect to database
+[2025-05-31 10:02:00] ERROR Failed to load config
+[2025-05-31 10:03:00] INFO User logged in
+[2025-05-31 10:04:00] ERROR Could not connect to database
+[2025-05-31 10:02:00] ERROR Failed to load config
+[2025-05-31 10:03:00] INFO User logged in
+[2025-05-31 10:04:00] ERROR Could not connect to database
