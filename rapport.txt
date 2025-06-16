@@ -1,0 +1,4 @@
+=== Rapport d'analyse des logs ===
+INFO: 7
+WARNING: 1
+ERROR: 12
