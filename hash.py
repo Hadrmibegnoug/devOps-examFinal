@@ -3,7 +3,7 @@ import os
 import hashlib
 
 def calculer_hash_fichier(chemin_fichier):
-    """Calcule le hash SHA-256 d’un fichier."""
+    """Calcule le hash SHA-256 d’un fichier ."""
     h = hashlib.sha256()
     try:
         with open(chemin_fichier, "rb") as f:
@@ -38,6 +38,6 @@ def afficher_fichiers_duplicats(fichiers_hashs):
         print("Aucun fichier dupliqué trouvé.")
 
 if __name__ == "__main__":
-    dossier = input("Entrez le chemin du dossier à analyser : ")
+    dossier = input("Entrez le chemin du dossier à analyser: ")
     fichiers_hashs = lister_fichiers_et_hashs(dossier)
     afficher_fichiers_duplicats(fichiers_hashs)
